@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning flutter and nodejs
 - 💞️ I’m looking to collaborate on backend developers
 - 📫 How to reach me rrahulreddy1801@gmail.com
-- 😄 Pronouns: yepp
 - ⚡ Fun fact: i am out of matrix
 
 <!---
